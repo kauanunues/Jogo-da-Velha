@@ -1,0 +1,6 @@
+Configuração da Conta local do GIT:
+    git config --global user.name kauanunes
+    git config --global user.email marykakinho@gmail.com
+
+Executar o projeto
+    npx expo start
