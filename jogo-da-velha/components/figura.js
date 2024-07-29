@@ -4,10 +4,8 @@ import { EnTypo } from '@expo/vector-icons'
 
 export default function figura() {
   return (
-    <View>
-      <Text>figura</Text>
-    </View>
+    <TouchableOpacity>
+      <EnTypo name ="circle" size={100} color="#000"/>
+    </TouchableOpacity>
   )
 }
-
-const styles = StyleSheet.create({})
